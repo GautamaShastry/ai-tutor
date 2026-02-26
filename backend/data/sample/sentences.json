@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "type": "sentence",
+      "telugu": "నమస్కారం",
+      "english": "Hello / Greetings",
+      "transliteration": "namaskāram",
+      "difficulty": "beginner",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీ పేరు ఏమిటి?",
+      "english": "What is your name?",
+      "transliteration": "mī pēru ēmiṭi?",
+      "difficulty": "beginner",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నా పేరు రాము",
+      "english": "My name is Ramu",
+      "transliteration": "nā pēru rāmu",
+      "difficulty": "beginner",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీరు ఎలా ఉన్నారు?",
+      "english": "How are you?",
+      "transliteration": "mīru elā unnāru?",
+      "difficulty": "beginner",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నేను బాగున్నాను",
+      "english": "I am fine",
+      "transliteration": "nēnu bāgunnānu",
+      "difficulty": "beginner",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ధన్యవాదాలు",
+      "english": "Thank you",
+      "transliteration": "dhanyavādālu",
+      "difficulty": "beginner",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "దయచేసి",
+      "english": "Please",
+      "transliteration": "dayacēsi",
+      "difficulty": "beginner",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "క్షమించండి",
+      "english": "Excuse me / Sorry",
+      "transliteration": "kṣamincanḍi",
+      "difficulty": "beginner",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నేను తెలుగు నేర్చుకుంటున్నాను",
+      "english": "I am learning Telugu",
+      "transliteration": "nēnu telugu nērcukuṇṭunnānu",
+      "difficulty": "intermediate",
+      "domains": ["general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీరు ఎక్కడ నుండి వచ్చారు?",
+      "english": "Where are you from?",
+      "transliteration": "mīru ekkaḍa nuṇḍi vaccāru?",
+      "difficulty": "intermediate",
+      "domains": ["general"]
+    }
+  ]
+}

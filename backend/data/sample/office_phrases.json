@@ -1,0 +1,68 @@
+{
+  "content": [
+    {
+      "type": "sentence",
+      "telugu": "మీటింగ్ ఎప్పుడు?",
+      "english": "When is the meeting?",
+      "transliteration": "mīṭiṅg eppuḍu?",
+      "difficulty": "intermediate",
+      "domains": ["office"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నేను ఆఫీసుకు వెళ్తున్నాను",
+      "english": "I am going to the office",
+      "transliteration": "nēnu āphīsuku veḷtunnānu",
+      "difficulty": "intermediate",
+      "domains": ["office"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ఈ ప్రాజెక్ట్ డెడ్‌లైన్ ఏమిటి?",
+      "english": "What is the deadline for this project?",
+      "transliteration": "ī prājekṭ ḍeḍlain ēmiṭi?",
+      "difficulty": "intermediate",
+      "domains": ["office"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "దయచేసి ఈ ఫైల్ పంపండి",
+      "english": "Please send this file",
+      "transliteration": "dayacēsi ī phail pampaṇḍi",
+      "difficulty": "intermediate",
+      "domains": ["office"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నేను రేపు సెలవు తీసుకుంటున్నాను",
+      "english": "I am taking leave tomorrow",
+      "transliteration": "nēnu rēpu selavu tīsukuṇṭunnānu",
+      "difficulty": "intermediate",
+      "domains": ["office"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీ సహాయానికి ధన్యవాదాలు",
+      "english": "Thank you for your help",
+      "transliteration": "mī sahāyāniki dhanyavādālu",
+      "difficulty": "intermediate",
+      "domains": ["office", "general"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ఈ రిపోర్ట్ చూడండి",
+      "english": "Please look at this report",
+      "transliteration": "ī ripōrṭ cūḍaṇḍi",
+      "difficulty": "intermediate",
+      "domains": ["office"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీకు ఏమైనా సందేహాలు ఉన్నాయా?",
+      "english": "Do you have any questions?",
+      "transliteration": "mīku ēmainā sandēhālu unnāyā?",
+      "difficulty": "intermediate",
+      "domains": ["office"]
+    }
+  ]
+}

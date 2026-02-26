@@ -1,0 +1,462 @@
+{
+  "content": [
+    {
+      "type": "vocabulary",
+      "telugu": "ఒకటి",
+      "english": "one",
+      "transliteration": "okaṭi",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "రెండు",
+      "english": "two",
+      "transliteration": "reṇḍu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "మూడు",
+      "english": "three",
+      "transliteration": "mūḍu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "నాలుగు",
+      "english": "four",
+      "transliteration": "nālugu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఐదు",
+      "english": "five",
+      "transliteration": "aidu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఆరు",
+      "english": "six",
+      "transliteration": "āru",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఏడు",
+      "english": "seven",
+      "transliteration": "ēḍu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఎనిమిది",
+      "english": "eight",
+      "transliteration": "enimidi",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "తొమ్మిది",
+      "english": "nine",
+      "transliteration": "tommidi",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "పది",
+      "english": "ten",
+      "transliteration": "padi",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఎరుపు",
+      "english": "red",
+      "transliteration": "erupu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "నీలం",
+      "english": "blue",
+      "transliteration": "nīlaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "పచ్చ",
+      "english": "green",
+      "transliteration": "pacca",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "పసుపు",
+      "english": "yellow",
+      "transliteration": "pasupu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "తెలుపు",
+      "english": "white",
+      "transliteration": "telupu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "నలుపు",
+      "english": "black",
+      "transliteration": "nalupu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "తల",
+      "english": "head",
+      "transliteration": "tala",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "కన్ను",
+      "english": "eye",
+      "transliteration": "kannu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ముక్కు",
+      "english": "nose",
+      "transliteration": "mukku",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "నోరు",
+      "english": "mouth",
+      "transliteration": "nōru",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "చెవి",
+      "english": "ear",
+      "transliteration": "cevi",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "చేయి",
+      "english": "hand",
+      "transliteration": "cēyi",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "కాలు",
+      "english": "leg/foot",
+      "transliteration": "kālu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "పాలు",
+      "english": "milk",
+      "transliteration": "pālu",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "పండు",
+      "english": "fruit",
+      "transliteration": "paṇḍu",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "కూర",
+      "english": "vegetable/curry",
+      "transliteration": "kūra",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "చపాతి",
+      "english": "chapati/roti",
+      "transliteration": "capāti",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "సాంబార్",
+      "english": "sambar",
+      "transliteration": "sāmbār",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "పప్పు",
+      "english": "dal/lentils",
+      "transliteration": "pappu",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "పెరుగు",
+      "english": "curd/yogurt",
+      "transliteration": "perugu",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "తినడం",
+      "english": "to eat",
+      "transliteration": "tinaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "తాగడం",
+      "english": "to drink",
+      "transliteration": "tāgaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "వెళ్ళడం",
+      "english": "to go",
+      "transliteration": "veḷḷaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "రావడం",
+      "english": "to come",
+      "transliteration": "rāvaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "చూడడం",
+      "english": "to see",
+      "transliteration": "cūḍaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "వినడం",
+      "english": "to hear",
+      "transliteration": "vinaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "చెప్పడం",
+      "english": "to say/tell",
+      "transliteration": "ceppaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "చేయడం",
+      "english": "to do/make",
+      "transliteration": "cēyaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఇవ్వడం",
+      "english": "to give",
+      "transliteration": "ivvaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "తీసుకోవడం",
+      "english": "to take",
+      "transliteration": "tīsukōvaḍaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "బడి",
+      "english": "school",
+      "transliteration": "baḍi",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఆసుపత్రి",
+      "english": "hospital",
+      "transliteration": "āsupatri",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "దుకాణం",
+      "english": "shop",
+      "transliteration": "dukāṇaṁ",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "బస్సు స్టాండ్",
+      "english": "bus stand",
+      "transliteration": "bassu sṭāṇḍ",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "రైల్వే స్టేషన్",
+      "english": "railway station",
+      "transliteration": "railwē sṭēṣan",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "travel"
+      ]
+    }
+  ]
+}

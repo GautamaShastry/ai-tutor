@@ -1,0 +1,108 @@
+{
+  "content": [
+    {
+      "type": "vocabulary",
+      "telugu": "అమ్మ",
+      "english": "mother",
+      "transliteration": "amma",
+      "difficulty": "beginner",
+      "domains": ["family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "నాన్న",
+      "english": "father",
+      "transliteration": "nānna",
+      "difficulty": "beginner",
+      "domains": ["family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "అన్న",
+      "english": "elder brother",
+      "transliteration": "anna",
+      "difficulty": "beginner",
+      "domains": ["family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "అక్క",
+      "english": "elder sister",
+      "transliteration": "akka",
+      "difficulty": "beginner",
+      "domains": ["family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "తమ్ముడు",
+      "english": "younger brother",
+      "transliteration": "tammuḍu",
+      "difficulty": "beginner",
+      "domains": ["family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "చెల్లి",
+      "english": "younger sister",
+      "transliteration": "celli",
+      "difficulty": "beginner",
+      "domains": ["family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "తాత",
+      "english": "grandfather",
+      "transliteration": "tāta",
+      "difficulty": "beginner",
+      "domains": ["family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "నానమ్మ",
+      "english": "grandmother (paternal)",
+      "transliteration": "nānamma",
+      "difficulty": "beginner",
+      "domains": ["family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "sentence",
+      "telugu": "అమ్మ వంట చేస్తోంది",
+      "english": "Mother is cooking",
+      "transliteration": "amma vaṇṭa cēstōndi",
+      "difficulty": "intermediate",
+      "domains": ["family"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నాన్న ఆఫీసు నుండి వచ్చారు",
+      "english": "Father came from office",
+      "transliteration": "nānna āphīsu nuṇḍi vaccāru",
+      "difficulty": "intermediate",
+      "domains": ["family", "office"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మా కుటుంబంలో ఐదుగురు ఉన్నారు",
+      "english": "There are five people in our family",
+      "transliteration": "mā kuṭumbamlō aiduguru unnāru",
+      "difficulty": "intermediate",
+      "domains": ["family"]
+    },
+    {
+      "type": "sentence",
+      "telugu": "అక్క పెళ్ళి అయింది",
+      "english": "Elder sister got married",
+      "transliteration": "akka peḷḷi ayindi",
+      "difficulty": "intermediate",
+      "domains": ["family"]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "content": [
+    {
+      "type": "sentence",
+      "telugu": "నేను ఉదయం ఆరు గంటలకు లేస్తాను",
+      "english": "I wake up at 6 AM",
+      "transliteration": "nēnu udayaṁ āru gaṇṭalaku lēstānu",
+      "difficulty": "intermediate",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నేను రోజూ వ్యాయామం చేస్తాను",
+      "english": "I exercise every day",
+      "transliteration": "nēnu rōjū vyāyāmaṁ cēstānu",
+      "difficulty": "intermediate",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "అమ్మ టిఫిన్ చేసింది",
+      "english": "Mother made breakfast",
+      "transliteration": "amma ṭiphin cēsindi",
+      "difficulty": "intermediate",
+      "domains": [
+        "family"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నేను బస్సులో ఆఫీసుకు వెళ్తాను",
+      "english": "I go to office by bus",
+      "transliteration": "nēnu bassulō āphīsuku veḷtānu",
+      "difficulty": "intermediate",
+      "domains": [
+        "office",
+        "travel"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "సాయంత్రం ఇంటికి వస్తాను",
+      "english": "I come home in the evening",
+      "transliteration": "sāyantraṁ iṇṭiki vastānu",
+      "difficulty": "intermediate",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ఇది ఎంత?",
+      "english": "How much is this?",
+      "transliteration": "idi enta?",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "బాత్రూమ్ ఎక్కడ ఉంది?",
+      "english": "Where is the bathroom?",
+      "transliteration": "bāthrūm ekkaḍa undi?",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీకు తెలుగు వచ్చా?",
+      "english": "Do you know Telugu?",
+      "transliteration": "mīku telugu vaccā?",
+      "difficulty": "beginner",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ఈ రోజు ఏం చేస్తున్నావు?",
+      "english": "What are you doing today?",
+      "transliteration": "ī rōju ēṁ cēstunnāvu?",
+      "difficulty": "intermediate",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "భోజనం అయిందా?",
+      "english": "Have you eaten?",
+      "transliteration": "bhōjanaṁ ayindā?",
+      "difficulty": "beginner",
+      "domains": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "హైదరాబాద్ వెళ్ళే బస్సు ఎక్కడ?",
+      "english": "Where is the bus to Hyderabad?",
+      "transliteration": "haidarābād veḷḷē bassu ekkaḍa?",
+      "difficulty": "intermediate",
+      "domains": [
+        "travel"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "టికెట్ ఎంత?",
+      "english": "How much is the ticket?",
+      "transliteration": "ṭikeṭ enta?",
+      "difficulty": "beginner",
+      "domains": [
+        "travel"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ఈ రైలు విజయవాడ వెళ్తుందా?",
+      "english": "Does this train go to Vijayawada?",
+      "transliteration": "ī railu vijayavāḍa veḷtundā?",
+      "difficulty": "intermediate",
+      "domains": [
+        "travel"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "దయచేసి నన్ను ఇక్కడ దింపండి",
+      "english": "Please drop me here",
+      "transliteration": "dayacēsi nannu ikkaḍa dimpaṇḍi",
+      "difficulty": "intermediate",
+      "domains": [
+        "travel"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ఈ సినిమా చాలా బాగుంది",
+      "english": "This movie is very good",
+      "transliteration": "ī sinimā cālā bāgundi",
+      "difficulty": "intermediate",
+      "domains": [
+        "movies"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీకు ఏ పాట ఇష్టం?",
+      "english": "Which song do you like?",
+      "transliteration": "mīku ē pāṭa iṣṭaṁ?",
+      "difficulty": "intermediate",
+      "domains": [
+        "movies"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ఈ హీరో చాలా బాగా నటించాడు",
+      "english": "This hero acted very well",
+      "transliteration": "ī hīrō cālā bāgā naṭincāḍu",
+      "difficulty": "intermediate",
+      "domains": [
+        "movies"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీ సహాయం కావాలి",
+      "english": "I need your help",
+      "transliteration": "mī sahāyaṁ kāvāli",
+      "difficulty": "intermediate",
+      "domains": [
+        "general",
+        "office"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "ఒక్క నిమిషం ఆగండి",
+      "english": "Please wait a minute",
+      "transliteration": "okka nimiṣaṁ āgaṇḍi",
+      "difficulty": "intermediate",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "మీతో మాట్లాడవచ్చా?",
+      "english": "May I speak with you?",
+      "transliteration": "mītō māṭlāḍavaccā?",
+      "difficulty": "intermediate",
+      "domains": [
+        "general",
+        "office"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "నాకు అర్థం కాలేదు",
+      "english": "I didn't understand",
+      "transliteration": "nāku arthaṁ kālēdu",
+      "difficulty": "intermediate",
+      "domains": [
+        "general"
+      ]
+    },
+    {
+      "type": "sentence",
+      "telugu": "దయచేసి మళ్ళీ చెప్పండి",
+      "english": "Please say it again",
+      "transliteration": "dayacēsi maḷḷī ceppaṇḍi",
+      "difficulty": "intermediate",
+      "domains": [
+        "general"
+      ]
+    }
+  ]
+}

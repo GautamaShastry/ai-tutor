@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "type": "vocabulary",
+      "telugu": "నీరు",
+      "english": "water",
+      "transliteration": "nīru",
+      "difficulty": "beginner",
+      "domains": ["general", "family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "అన్నం",
+      "english": "rice / food",
+      "transliteration": "annaṁ",
+      "difficulty": "beginner",
+      "domains": ["general", "family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఇల్లు",
+      "english": "house",
+      "transliteration": "illu",
+      "difficulty": "beginner",
+      "domains": ["general", "family"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "పని",
+      "english": "work",
+      "transliteration": "pani",
+      "difficulty": "beginner",
+      "domains": ["general", "office"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "సమయం",
+      "english": "time",
+      "transliteration": "samayaṁ",
+      "difficulty": "beginner",
+      "domains": ["general", "office"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "రోజు",
+      "english": "day",
+      "transliteration": "rōju",
+      "difficulty": "beginner",
+      "domains": ["general"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "రాత్రి",
+      "english": "night",
+      "transliteration": "rātri",
+      "difficulty": "beginner",
+      "domains": ["general"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఉదయం",
+      "english": "morning",
+      "transliteration": "udayaṁ",
+      "difficulty": "beginner",
+      "domains": ["general"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "సాయంత్రం",
+      "english": "evening",
+      "transliteration": "sāyantraṁ",
+      "difficulty": "beginner",
+      "domains": ["general"],
+      "metadata": {"part_of_speech": "noun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "నేను",
+      "english": "I",
+      "transliteration": "nēnu",
+      "difficulty": "beginner",
+      "domains": ["general"],
+      "metadata": {"part_of_speech": "pronoun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "నీవు",
+      "english": "you (informal)",
+      "transliteration": "nīvu",
+      "difficulty": "beginner",
+      "domains": ["general", "family"],
+      "metadata": {"part_of_speech": "pronoun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "మీరు",
+      "english": "you (formal/plural)",
+      "transliteration": "mīru",
+      "difficulty": "beginner",
+      "domains": ["general", "office"],
+      "metadata": {"part_of_speech": "pronoun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "అతను",
+      "english": "he",
+      "transliteration": "atanu",
+      "difficulty": "beginner",
+      "domains": ["general"],
+      "metadata": {"part_of_speech": "pronoun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "ఆమె",
+      "english": "she",
+      "transliteration": "āme",
+      "difficulty": "beginner",
+      "domains": ["general"],
+      "metadata": {"part_of_speech": "pronoun"}
+    },
+    {
+      "type": "vocabulary",
+      "telugu": "మేము",
+      "english": "we (exclusive)",
+      "transliteration": "mēmu",
+      "difficulty": "beginner",
+      "domains": ["general"],
+      "metadata": {"part_of_speech": "pronoun"}
+    }
+  ]
+}
